@@ -1,4 +1,4 @@
-//packageName.as//
+//tcm.as//
 {
   "version":"1",
   "source":"link",
