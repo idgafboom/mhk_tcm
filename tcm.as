@@ -1,6 +1,6 @@
 //tcm.as//
 {
-  "version":"3",
+  "version":"4",
   "source":"https://github.com/idgafboom/mhk_tcm/releases/download/%2B/TCM_ahk.zip",
   "compiled":"https://github.com/idgafboom/mhk_tcm/releases/download/%2B/TCM_exe.zip",
   "passwords": [
